@@ -8,4 +8,4 @@ elif entrada == 'sair':
 else:
   print('Digite "entrar" ou "sair"')
 
-
+#teste
