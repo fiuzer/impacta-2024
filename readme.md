@@ -20,14 +20,14 @@
 ## Estrutura Básica do Projeto
 
 ### 1. Configuração Inicial
-bash
-npx create-next-app@latest mural-de-cantadas
-cd mural-de-cantadas
+- bash
+- npx create-next-app@latest mural-de-cantadas
+- cd mural-de-cantadas
 
 ### 2. Dependências Adicionais
-bash
-npm install @prisma/client bcryptjs jsonwebtoken
-npm install -D prisma
+- bash
+- npm install @prisma/client bcryptjs jsonwebtoken
+- npm install -D prisma
 
 ### 4. Modelos de Dados (schema.prisma)
 - User
