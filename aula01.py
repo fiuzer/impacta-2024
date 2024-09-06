@@ -22,3 +22,4 @@ else:
 
 
     print(f"Media final: {media_final:.1f}")
+    
