@@ -1,0 +1,1 @@
+![alt text](exercicio-1-2.png)
