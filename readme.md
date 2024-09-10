@@ -1,4 +1,4 @@
-# Exercícios da Faculdade - Grupo X
+# Exercícios da Faculdade - IMPACTA 2024
 
 Este repositório contém exercícios e projetos para as disciplinas:
 - Lógica de Programação
