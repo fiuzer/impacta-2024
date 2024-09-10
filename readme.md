@@ -15,15 +15,15 @@ Este repositório contém exercícios e projetos para as disciplinas:
 5. Faça pull requests para revisão antes de mesclar com a main.
 
 ## Estrutura de pastas sugerida
-/logica_programacao
-    /exercicios
-    /projetos
-/python
-    /exercicios
-    /projetos
-/poo
-/estruturas_dados
-/banco_dados
+- /logica_programacao
+  -  /exercicios
+  -  /projetos
+- /python
+   - /exercicios
+   - /projetos
+- /poo
+- /estruturas_dados
+- /banco_dados
 
 ## Dicas para contribuição
 - Para exercícios de Lógica de Programação, inclua comentários explicando o raciocínio.
