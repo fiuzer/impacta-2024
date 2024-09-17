@@ -35,4 +35,4 @@ Este repositório contém exercícios e projetos para as disciplinas:
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Visualização de Algoritmos](https://visualgo.net/)
 
-Bons estudos a todos!
+Bons estudos a todos! - 🚀
