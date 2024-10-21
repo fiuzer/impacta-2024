@@ -1,4 +1,4 @@
-def soma(n):
+def soma_impares(n):
   soma = 0
   while n > 0:
     digito = n % 10
@@ -8,5 +8,5 @@ def soma(n):
   return soma
 
 n = int(input("Digite um número natural: "))
-resultado = soma(n)
+resultado = soma_impares(n)
 print(f'A soma dos digitos impares é: {resultado}')
