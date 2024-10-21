@@ -9,4 +9,4 @@ def soma_impares(n):
 
 n = int(input("Digite um número natural: "))
 resultado = soma_impares(n)
-print(f'A soma dos digitos impares é: {resultado}')
+print(f'A soma dos impares é: {resultado}')
